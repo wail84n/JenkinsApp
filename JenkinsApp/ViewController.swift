@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         #if DEVELOPMENT
         print("I am in Developmentvddcd.+++cdscddsfdssddcsdcsd")
         #elseif DEBUG
-        print("I am in Debugddsdsdddfdd")
+        print("I am in Debugddsdsddd")
         #endif
         
         // Do any additional setup after loading the view.
