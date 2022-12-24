@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         #if DEVELOPMENT
-        print("I am in Developmentvddcd.+++cdscd")
+        print("I am in Developmentvddcd.+++cdscddsfds")
         #elseif DEBUG
         print("I am in Debugddsdsdddfdd")
         #endif
