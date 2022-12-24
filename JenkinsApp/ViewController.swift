@@ -12,7 +12,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("Hello World.fffdsddsds")
+        #if DEVELOPMENT
+        print("I am in Development")
+        #elseif DEBUG
+        print("I am in Debug")
+        #endif
+        
         // Do any additional setup after loading the view.
     }
 }

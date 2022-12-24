@@ -1,0 +1,10 @@
+//
+//  Development.xcconfig
+//  JenkinsApp
+//
+//  Created by wael almohammad on 23/12/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+CT_ACCENT_COLOR = DevAccentColor
