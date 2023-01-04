@@ -23,7 +23,7 @@ final class StringExtensionsTests: XCTestCase {
 
     func testUppercaseFirst(){
         let input = "antoine"
-        let expectedOutput = "Antoine"
+        let expectedOutput = "Antoine2"
         XCTAssertEqual(input.uppercasedFirst(), expectedOutput, "The String is not correctly capitalized.")
     }
     
